@@ -65,6 +65,15 @@ Digunakan sebagai asisten pengembangan (*pair-programming*).
 Digunakan untuk men-*generate* ilustrasi visual grafis pada bagian *System Architecture*.
   - **Metode Verifikasi:** Gambar hasil generasi AI dievaluasi secara visual dan konseptual untuk memastikan bahwa alur (dari Frontend, Server Node.js, hingga Cloud Database) secara akurat merepresentasikan arsitektur yang kami terapkan di dalam proyek.
 
+### Testing Result
+##### 1. Latency Test Result
+![alt text](./docs/latency-test.png)
+
+##### 2. Throughput Test Result
+![alt text](./docs/throughput-test.png)
+
+Penjelasan lengkapnya ada di file `docs/testing-result.md`
+
 ## Learn More
 To learn more about Next.js, take a look at the following resources:
 - [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
