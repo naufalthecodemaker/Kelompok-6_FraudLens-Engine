@@ -1,0 +1,4 @@
+BNP Paribas Personal Finance, anak perusahaan dari raksasa perbankan Eropa BNP Paribas Group, memproses lebih dari 800.000 pengajuan kredit setiap tahunnya. Sebelumnya, mereka menggunakan database relasional (SQL) yang kaku dan sangat lambat saat harus mengolah riwayat data yang saling tumpang tindih (complex JOINs). Untuk mengatasi taktik penipuan modern, mereka beralih menggunakan Neo4j. Dengan Neo4j, sistem BNP Paribas kini mampu menganalisis hubungan graf secara real-time untuk mendeteksi profil manipulatif, misalnya menemukan ribuan akun berbeda yang ternyata menggunakan device yang sama. Transisi ke graph database ini sukses memangkas waktu query menjadi kurang dari 2 detik dan secara signifikan berhasil menurunkan tingkat lolosnya penipuan hingga 20% tanpa harus memblokir nasabah yang sah.
+
+Sumber:
+*https://neo4j.com/customer-stories/bnp-paribas-personal-finance/*
