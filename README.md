@@ -45,6 +45,8 @@ You can start editing the page by modifying `app/page.js`. The page auto-updates
 
 This project uses [`next/font`]([https://nextjs.org/docs/app/building-your-application/optimizing/fonts](https://nextjs.org/docs/app/building-your-application/optimizing/fonts)) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
 
+Untuk melihat beberapa graph yang sudah dibuat, buka https://kelompok-6-fraud-lens-engine.vercel.app/ , kemudian login dengan username `nopal` dan password `naufal2006` 
+
 ## Credits, Datasets & Third-Party Tools
 All external code, tools, and platforms utilized to build this project are credited below:
 
